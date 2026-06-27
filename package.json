@@ -1,0 +1,12 @@
+{
+  "name": "projeto-automacao-cypress",
+  "version": "1.0.0",
+  "description": "Testes automatizados E2E com Cypress para portfólio de QA",
+  "scripts": {
+    "test": "cypress run",
+    "test:open": "cypress open"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.0"
+  }
+}
